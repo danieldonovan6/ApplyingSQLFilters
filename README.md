@@ -2,7 +2,7 @@
 
 
 <h2>Project Description</h2>
-This organization is trying to make their system more secure. In this project, I’m responsible for making sure the system is safe, I need to investigate all potential security issues, and I need to update employee computers if they need. The following steps show how I used SQL with filters to accomplish these security tasks. 
+Within my Google Cybersecurity Cerficate Program, I was tasked to help an organization make their system more secure with SQL filters. In this project, I’m responsible for making sure the system is safe, investigating all potential security issues, and updating employee computers if it is needed. The attached document work through each step in how I completed the project.
 <br />
 
 
@@ -14,20 +14,6 @@ This organization is trying to make their system more secure. In this project, I
 <h2>Environments Used </h2>
 
 - <b>Linux</b>
-
-<h2>Project walk-through:</h2>
-
-<p align="center">
-<br/>
-<img src="https://i.imgur.com/u6kPgVS.png" height="80%" width="80%"/>
-<br />
-<img src="https://i.imgur.com/o7Fvkaw.png" height="80%" width="80%"/>
-<br />
-<img src="https://i.imgur.com/ATfYKsl.png" height="80%" width="80%"/>
-<br />
-<img src="https://i.imgur.com/3ZdVc2r.png" height="80%" width="80%"/>
-<br />
-
 
   
 <!--
